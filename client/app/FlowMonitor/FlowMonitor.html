@@ -1,0 +1,8 @@
+<div ng-include="'components/navbar/navbar.html'"></div>
+<h1>Process List :</h1>
+<!--<div ui-grid="{ data: myData }" class="gridStyle"></div>-->
+<div ui-grid="gridOptions" ui-grid-selection class="myGrid"></div>
+<button type="button" ng-disabled="!rowSelected" class="btn btn-success" ng-click="Logs()">See Logs</button>
+<button type="button" ng-disabled="!rowSelected" class="btn btn-success" ng-click="Restart()">Restart</button>
+<button type="button" ng-disabled="!rowSelected" class="btn btn-success" ng-click="Delete()">Delete</button>
+<button type="button" class="btn btn-success" ng-click="Refresh()">Refresh</button>

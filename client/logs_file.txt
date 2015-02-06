@@ -1,0 +1,3 @@
+2015-02-04 15:13:35;CHL8yR;CHL8yR;CHL8yR;PROTOHMCO20150202;UDtoSF_File_Emp;Default;6;Java Exception;tFTPConnection_1;com.enterprisedt.net.ftp.ControlChannelIOException:Control channel unexpectedly closed ('' read so far);1
+2015-02-04 15:45:07;1cw6US;1cw6US;1cw6US;PROTOHMCO20150202;UDtoSF_File_Emp;Default;6;Java Exception;tFTPFileList_1;com.enterprisedt.net.ftp.ControlChannelIOException:Read timed out;1
+2015-02-04 15:46:03;M283F9;M283F9;M283F9;PROTOHMCO20150202;UDtoSF_File_Emp;Default;6;Java Exception;tFTPPut_1;com.enterprisedt.net.ftp.ControlChannelIOException:Control channel unexpectedly closed ('' read so far);1
